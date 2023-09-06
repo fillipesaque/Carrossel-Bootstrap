@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+
+#carouselExampleCaptions{
+    max-width: 700px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+
+#carouselExample{
+    width: 700px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.title h1{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+#carouselExampleSlidesOnly{
+    display: block;
+    margin: 0 auto;
+    width: 700px;
+    margin-top: 30px;
+}
